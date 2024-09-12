@@ -43,7 +43,7 @@ Click the following link to register : [https://t.me/pocketfi_bot/Mining?startap
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/pocketfitod.git
+   git clone https://github.com/ahmedjabbar4/pocketfitod.git
    ```
 
 3. goto pocketfitod directory
